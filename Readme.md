@@ -1,6 +1,4 @@
-## JavaScript Interview Questions
-
-### \***\*\*\*\*\*\*\***\*\***\*\*\*\*\*\*\*** Basic Questions \***\*\*\*\*\*\*\***\*\***\*\*\*\*\*\*\***
+## JavaScript Interview Questions and Answers
 
 #### 1. What Is JavaScript?
 
@@ -440,8 +438,6 @@ const { add, subtract } = require("./math");
 console.log(add(2, 3)); // Output: 5
 console.log(subtract(5, 2)); // Output: 3
 ```
-
-### \***\*\*\*\*\*\*\***\*\***\*\*\*\*\*\*\*** Intermediate Questions \***\*\*\*\*\*\*\***\*\***\*\*\*\*\*\*\***
 
 ## 12. Type Conversion in JavaScript
 
@@ -1262,8 +1258,6 @@ Key Concepts of the DOM:
    - The DOM represents a document as a hierarchical tree of **nodes**.
    - Each node is an object that represents a part of the document (e.g., elements, attributes, text).
    - The topmost node is the **document object**, which represents the entire document.
-
-### \***\*\*\*\*\*\*\***\*\***\*\*\*\*\*\*\*** Advanced Questions \***\*\*\*\*\*\*\***\*\***\*\*\*\*\*\*\***
 
 # 24. Synchronous vs Asynchronous Programming
 
